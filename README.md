@@ -34,3 +34,7 @@ OPENROUTER_API_KEY=sk-or-... npm run dev
 ```
 
 Open http://localhost:3000, click "Try the example" or turn on the camera.
+
+## License
+
+MIT. Use it, fork it, remix it. See [LICENSE](LICENSE).
