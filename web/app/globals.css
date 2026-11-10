@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/* Starter tokens. The 7pm build replaces these with the product's own look. */
+:root {
+  --paper: #f5f2ec;
+  --card: #fffdf9;
+  --ink: #141414;
+  --ink-2: #55524c;
+  --ink-3: #8c877e;
+  --rule: #e2ddd3;
+  --ember: #e2541b;
+  --ember-dark: #b8400f;
+  --ember-wash: #fbe6db;
+  --ok: #1f7a4a;
+  --sans: var(--font-sans), system-ui, sans-serif;
+  --mono: var(--font-mono), ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; }
+html { background: var(--paper); }
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: var(--sans);
+  -webkit-font-smoothing: antialiased;
+}
+button, input, textarea, select { font: inherit; color: inherit; }
+::selection { background: var(--ember); color: #fff; }

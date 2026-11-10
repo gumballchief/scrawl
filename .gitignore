@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.example
+*.key
+*.pem
+tsconfig.tsbuildinfo
+
+film/demo-raw.webm
+film/demo-take*.mp4
