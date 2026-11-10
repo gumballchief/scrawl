@@ -4,7 +4,9 @@ Draw a game level on paper, hold it up to your webcam, and play it a few seconds
 
 Built in one hour at **Build Day: OpenRouter x Meta** (SF, Nov 9 2026) for the $1 Challenge: *one dollar of Muse Ember, what can you make possible?*
 
-https://github.com/gumballchief/scrawl/raw/main/film/demo.mp4
+https://github.com/user-attachments/assets/5433e09a-ffb1-4ed1-b1ce-5ab514408ddf
+
+Every level in the video was read live by Muse Ember from a photo of a drawing.
 
 ## What it does
 
